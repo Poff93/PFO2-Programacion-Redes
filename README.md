@@ -1,11 +1,13 @@
 # Práctica Formativa Obligatoria 2 (PFO 2) - API REST y autenticación
 
-**Materia:** Programación sobre Redes (IFTS Nº 29)  
-**Carrera:** Tecnicatura Superior en Desarrollo de Software  
-**Alumno:** Pablo Off  
-**Comisión:** D
-**Docente:** Germán Ríos
-**Repositorio GitHub:** https://github.com/Poff93/PFO2-Programacion-Redes
+| | |
+|---|---|
+| **Materia** | Programación sobre Redes (IFTS Nº 29) |
+| **Carrera** | Tecnicatura Superior en Desarrollo de Software |
+| **Alumno** | Pablo Off |
+| **Comisión** | D |
+| **Docente** | Germán Ríos |
+| **Repositorio GitHub** | https://github.com/Poff93/PFO2-Programacion-Redes |
 
 ## Descripción del proyecto
 
@@ -145,6 +147,24 @@ El flujo esperado es:
 - El proyecto está pensado para ejecutarse localmente.
 - No incluye todavía modificación ni eliminación de tareas.
 - Para producción sería necesario utilizar HTTPS y una clave secreta administrada mediante variables de entorno.
+
+## 📸 Capturas de Pantalla y Evidencias de Funcionamiento
+
+### 1. Servidor API en ejecución
+
+![Servidor Iniciado](capturas/01_servidor.png)
+
+### 2. Registro e Inicio de Sesión desde el Cliente
+
+![Registro y Login](capturas/02_login.png)
+
+### 3. Creación y Consulta de Tareas
+
+![Gestión de Tareas](capturas/03_tareas.png)
+
+### 4. Vista HTML de Bienvenida en Navegador (`GET /tareas`)
+
+![Pantalla HTML de Bienvenida](capturas/04_html_bienvenida.png)
 
 ## Respuestas conceptuales
 
