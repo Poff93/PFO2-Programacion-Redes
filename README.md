@@ -152,19 +152,19 @@ El flujo esperado es:
 
 ### 1. Servidor API en ejecución
 
-![Servidor Iniciado](capturas/01_servidor.png)
+![Servidor Iniciado](capturas/01_servidor_iniciado.png)
 
 ### 2. Registro e Inicio de Sesión desde el Cliente
 
-![Registro y Login](capturas/02_login.png)
+![Registro y Login](capturas/02_registro_y_login.png)
 
 ### 3. Creación y Consulta de Tareas
 
-![Gestión de Tareas](capturas/03_tareas.png)
+![Gestión de Tareas](capturas/03_gestion_tareas.png)
 
 ### 4. Vista HTML de Bienvenida en Navegador (`GET /tareas`)
 
-![Pantalla HTML de Bienvenida](capturas/04_html_bienvenida.png)
+![Pantalla HTML de Bienvenida](capturas/04_bienvenida_html.png)
 
 ## Respuestas conceptuales
 
